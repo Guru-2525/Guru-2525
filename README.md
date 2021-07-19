@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data ,Big data, data-analysis , data visualization ,few machine learning algorithems also .
 - 🌱 I’m currently learning Spark, AWS ,Hadoop and few big data things .
 - 💞️ I’m looking to collaborate on any data science and machine learning  projects .
-- 📫 How to reach me over here :
+- 📫 How to reach me        :
 -                                 e-mail   :- gpreddy2526@gmail.com
 -                                 linkedin :- https://www.linkedin.com/in/guruprasad-reddy-4390901a7
 
