@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.-->
 - [![GURU's github stats](https://github-readme-stats.vercel.app/api?username=Guru-2525&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)  
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-2525)](https://github.com/anuraghazra/github-readme-stats)
 
+- [![mypage](https://www.linkedin.com/in/guruprasad-reddy-4390901a7)]
+
