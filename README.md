@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning Spark, AWS ,Hadoop and few big data things .
 - 💞️ I’m looking to collaborate on any data science and machine learning  projects .
 - 📫 How to reach me        :
--                                 e-mail   :- gpreddy2526@gmail.com
--                                 linkedin :- https://www.linkedin.com/in/guruprasad-reddy-4390901a7
+-  e-mail  📧 :-
+-  <href> gpreddy2526@gmail.com </href>
+-  linkedin    :-
+-   <href> https://www.linkedin.com/in/guruprasad-reddy-4390901a7 </href>
 
 
 <!-- Guru-2525/Guru-2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
