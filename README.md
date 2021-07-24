@@ -1,3 +1,4 @@
+[Udemy.SQL.pdf](https://github.com/Guru-2525/Guru-2525/files/6871955/Udemy.SQL.pdf)
 - 👋 Hey , I’m @Guru Prasad Reddy ,
 - A person with positive todo attitude and always ready to learn new things  :) .
 - 👀 I’m interested in Data ,Big data, data-analysis , data visualization ,few machine learning algorithems also .
