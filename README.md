@@ -1,5 +1,3 @@
-- [GURU.RESUME..pdf](https://github.com/Guru-2525/Guru-2525/files/6871957/GURU.RESUME.IMP.pdf)
-- [Udemy.SQL.pdf](https://github.com/Guru-2525/Guru-2525/files/6871955/Udemy.SQL.pdf)
 - 👋 Hey , I’m @Guru Prasad Reddy ,
 - A person with positive todo attitude and always ready to learn new things  :) .
 - 👀 I’m interested in Data ,Big data, data-analysis , data visualization ,few machine learning algorithems also .
@@ -11,6 +9,12 @@
 -  linkedin    :-
 -   <href> https://www.linkedin.com/in/guruprasad-reddy-4390901a7 </href>
 
+-  Here are some of my certificates  
+
+- <img src="https://github.com/Guru-2525/Guru-2525/blob/main/BOARD%20INFINITY%20(DATA%20SCIENCE%20certificate).png"  width="90" height="90">  [Udemy.SQL.pdf](https://github.com/Guru-2525/Guru-2525/files/6871955/Udemy.SQL.pdf)
+-  
+
+
 
 <!-- Guru-2525/Guru-2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.-->
@@ -21,5 +25,4 @@ You can click the Preview link to take a look at your changes.-->
 - **Data cleaning ,analysing ,visualizing , querying** etc . 
 
 
-- ![Sample IMG](https://github.com/Guru-2525/Assigments_Repository/blob/main/Capture.PNG)
 
