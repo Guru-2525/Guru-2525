@@ -11,7 +11,7 @@
 
 -  Here are some of my certificates  
 
-- <img src="https://github.com/Guru-2525/Guru-2525/blob/main/BOARD%20INFINITY%20(DATA%20SCIENCE%20certificate).png"  width="90" height="90">  [Udemy.SQL.pdf](https://github.com/Guru-2525/Guru-2525/files/6871955/Udemy.SQL.pdf)
+- <img src="https://github.com/Guru-2525/Guru-2525/blob/main/BOARD%20INFINITY%20(DATA%20SCIENCE%20certificate).png"  width="90" height="90"> <img src="https://github.com/Guru-2525/Guru-2525/blob/main/Screenshot%20(46).png"  width="90" height="90">    <img src="https://github.com/Guru-2525/Guru-2525/blob/main/Screenshot%20(47).png"  width="90" height="90"> <img src="https://github.com/Guru-2525/Guru-2525/blob/main/Screenshot%20(50).png"  width="90" height="90"> <img src="https://github.com/Guru-2525/Guru-2525/blob/main/Screenshot%20(39).png"  width="90" height="90"> <img src="https://github.com/Guru-2525/Guru-2525/blob/main/Screenshot%20(51).png"  width="90" height="90">  
 -  
 
 
