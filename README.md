@@ -1,6 +1,6 @@
 - 👋 Hey , I’m @Guru Prasad Reddy ,==> [RESUME](https://github.com/Guru-2525/Guru-2525/blob/main/GURUPRASAD.RESUME.pdf)
 - A person with positive todo attitude and always ready to learn new things  :) .
-- 👀 I’m interested in DataScience ,Big data, data-analysis , data visualization ,few machine learning algorithems also .
+- 👀 I’m interested in DataScience ,Big data, data-analysis , data visualization ,machine learning algorithems,Deep learning,webscraping,NLP,Transformers,Bert.
 - 🌱 I’m currently learning Spark, AWS ,Hadoop and few big data things .
 - 💞️ I’m looking to collaborate on any data science and machine learning  projects .
 - 📫 How to reach me        :
