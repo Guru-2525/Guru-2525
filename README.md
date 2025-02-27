@@ -2,7 +2,7 @@
 - A person with positive todo attitude and always ready to learn new things  :) .
 - 👀 I’m interested in DataScience ,Big data, data-analysis , data visualization ,machine learning algorithems,Deep learning,webscraping,NLP,Transformers,Bert.
 - 🌱 I’m currently learning Spark, AWS ,Hadoop and few big data things .
-- 💞️ I’m looking to collaborate on any data science and machine learning  projects .
+-  I’m looking to collaborate on any data science and machine learning  projects .
 - 📫 How to reach me        :
 -  e-mail  📧 :-
 -  <href> gpreddy2526@gmail.com </href>
